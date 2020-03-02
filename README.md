@@ -1,1 +1,1 @@
-# DS_Project2_Image-Classification
+# Image-Classification
